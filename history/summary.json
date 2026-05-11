@@ -5,16 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.lomi.digital.ico",
     "slug": "mezgeb-api",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "97.43%",
+    "uptimeDay": "28.94%",
+    "uptimeWeek": "89.85%",
+    "uptimeMonth": "97.43%",
+    "uptimeYear": "97.43%",
     "time": 470,
-    "timeDay": 394,
-    "timeWeek": 428,
+    "timeDay": 0,
+    "timeWeek": 431,
     "timeMonth": 470,
     "timeYear": 470,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-05-11": 179,
+      "2026-05-10": 844
+    }
   }
 ]
